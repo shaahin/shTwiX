@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="G:\Projects\twproxy\published" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/20/2012 23:53:59" />
+    <file relUrl="App_Readme/Spring.Social.Core.txt" publishTime="09/02/2012 00:28:49" />
+    <file relUrl="image.aspx" publishTime="09/20/2012 15:08:11" />
+    <file relUrl="bin/Twitterizer2.dll" publishTime="05/25/2012 14:01:15" />
+    <file relUrl="App_Data/Users/UsersFolder.txt" publishTime="09/20/2012 14:06:25" />
+    <file relUrl="shTwiXHandler.ashx" publishTime="09/20/2012 14:19:47" />
+    <file relUrl="App_Readme/Spring.Social.Twitter.txt" publishTime="09/02/2012 00:28:49" />
+    <file relUrl="bin/shTwiX.pdb" publishTime="09/21/2012 00:48:07" />
+    <file relUrl="bin/Common.Logging.dll" publishTime="09/02/2012 00:28:48" />
+    <file relUrl="Callback.aspx" publishTime="09/20/2012 01:15:32" />
+    <file relUrl="url.ashx" publishTime="09/20/2012 16:30:33" />
+    <file relUrl="Authorize.aspx" publishTime="09/20/2012 01:15:32" />
+    <file relUrl="bin/shTwiX.dll" publishTime="09/21/2012 00:48:07" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="03/04/2012 01:29:38" />
+    <file relUrl="Global.asax" publishTime="09/20/2012 14:16:11" />
+    <file relUrl="packages.config" publishTime="09/02/2012 00:28:49" />
+    <file relUrl="bin/Shaahin.us.Encryption.dll" publishTime="03/04/2012 02:13:23" />
+    <file relUrl="App_Readme/Spring.Rest.txt" publishTime="09/02/2012 00:28:34" />
+  </publishProfile>
+</publishData>
