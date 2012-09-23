@@ -35,6 +35,7 @@ namespace shTwiX
                     case "p":
                     case "query":
                     case "earned":
+                    case "pc":
                         break;
                     default:
                         query += string.Format("&{0}={1}", queryString, context.Request.QueryString[queryString]);
@@ -75,7 +76,7 @@ namespace shTwiX
                  //check if the request is xAuth
                 if (context.Request.QueryString["query"].Contains("oauth/access_token"))
                 {
-                    
+
                     string xAuthResponse = string.Format("oauth_token={0}&oauth_token_secret={1}&user_id={2}&screen_name={3}&x_auth_expires=0",
                         (string)accessToken.SelectToken("AccessToken"),
                         (string)accessToken.SelectToken("AccessSecret"),
