@@ -127,7 +127,7 @@ namespace shTwiX
                     });
                     // urls
 
-                    //strw.Write(response);
+                    strw.WriteLine(response);
                     strReader.Close();
                     context.Response.ClearContent();
                     context.Response.Write(response);
