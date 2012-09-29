@@ -11,7 +11,7 @@ namespace shTwiX
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lit_activeUsers.Text = (new System.IO.DirectoryInfo(Server.MapPath("App_Data/Users/")).GetFiles().Length + 250).ToString() + " active users, so far.";
+            lit_activeUsers.Text = (new System.IO.DirectoryInfo(Server.MapPath("App_Data/Users/")).GetFiles().Length).ToString() + " active users, so far.";
         }
     }
 }
