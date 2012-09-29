@@ -32,7 +32,7 @@
             
             </asp:ContentPlaceHolder>
         </div>
-        <pre style="text-align: center">© 2012 Twittr.me</pre>
+        <div class="well"><span class="span3" style="text-align: left">© 2012 Twittr.me</span><span class="span3 offset5" style="text-align: right"><strong><asp:Literal ID="lit_activeUsers" runat="server"></asp:Literal></strong></span></div>
     </div>
     </form>
 </body>
