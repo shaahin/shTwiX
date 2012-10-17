@@ -19,9 +19,6 @@
   <strong>iOS 5 and above users:</strong> If you don't see the Sign In and Gear button in your Twitter App, go to Settings>Twitter and set the switch in the front of Twitter to OFF.
   </div>
   <p>
-       <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EMZHG5YHVWEGU" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate With Paypal"/>
-    </a>
 
   </p>
 </asp:Content>
